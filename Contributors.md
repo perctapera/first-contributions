@@ -5,6 +5,7 @@
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
 - [Kushaan Gowda](https://github.com/kushaangowda)
 - [Kate Howell](https://github.com/katehowell)
+- [Percival Tapera](https://github.com/perctapera)
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Avnish Pandey](https://github.com/avnishpandey113)
 - [Adrianna Guevarra](https://github.com/adrianna157)
